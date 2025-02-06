@@ -13,9 +13,10 @@ The dataset used in this project contains employee information, providing valuab
 ### 
 
 # Dashboards:
-![image](https://github.com/user-attachments/assets/4688b9e4-d241-4f69-b446-c0ea97e55a34)
+![image](https://github.com/user-attachments/assets/9e5e310e-8e46-49d3-8d02-757870457175)
 
-![image](https://github.com/user-attachments/assets/64b5983f-d54f-4758-9df3-28fcfe5b3c02)
+![image](https://github.com/user-attachments/assets/ebc69f2a-93c2-4092-bcd2-a75a4a0e3bad)
+
 
 # Dashboard overview
 1234
