@@ -1,6 +1,6 @@
 # Employee Compensation, Satisfaction and Termination Overview
 
-# Links
+### Links
 [Lets Connect on Linkedin!](https://www.linkedin.com/in/tomzjwang/)
 
 [Download my Dashboard](https://github.com/tomzjwang/HR-Data-Analytics-using-Power-Bi/blob/main/HR%20Project.pbix/)
