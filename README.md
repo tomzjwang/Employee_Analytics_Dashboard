@@ -10,7 +10,8 @@
 This project is designed to equip HR managers, supervisors, and other company stakeholders using in-depth insights obtained from employee data. The project aims to support and inform decision makers on key areas such as employee satisfaction, recruitment, employee satisfaction, and termination.
 ### About the Dataset 
 The dataset used in this project contains employee information, providing valuable insights for HR analysis. The data has been sourced from [here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set), ensuring accuracy and relevance for the analysis.
-### 
+### Dashboard Summary
+[1st worksheet](https://github.com/user-attachments/assets/9e5e310e-8e46-49d3-8d02-757870457175) talks about 
 
 # Dashboards:
 ![image](https://github.com/user-attachments/assets/9e5e310e-8e46-49d3-8d02-757870457175)
