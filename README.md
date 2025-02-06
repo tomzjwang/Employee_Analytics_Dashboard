@@ -5,7 +5,8 @@
 
 [Download my Dashboard](https://github.com/tomzjwang/HR-Data-Analytics-using-Power-Bi/blob/main/HR%20Project.pbix/)
 
-# Project Introduction
+### Problem Overview
+In today's competitive job market, retaining top talent and fostering a satisfied workforce is more challenging than ever. Companies often struggle to identify the key factors that drive employee satisfaction, reasons behind high turnover rates and optimize their recruitment strategies. Without data driven insights, decision makers are left navigating these challenges in the dark, risking employee morale, productivity and overall organizational and employee success. This project aims to shed light on these critical areas, providing actionable insights to help build a thriving workplace.
 ### Objective
 This project is designed to equip HR managers, supervisors, and other company stakeholders using in-depth insights obtained from employee data. The project aims to support and inform decision makers on key areas such as employee satisfaction, recruitment, employee satisfaction, and termination.
 ### About the Dataset 
