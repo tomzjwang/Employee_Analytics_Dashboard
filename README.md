@@ -15,12 +15,11 @@ This project is designed to equip HR managers, supervisors, and other company st
 - Key columns: EmpID, EmpSatisfaction, Department, Average Salary, Performance, EmploymentStatus
 - Calculated/Dax columns: TenureYear (nearest year), TenureDays, Tenure (tenure year but rounded to 2 decimal)
 ### Dashboard Summary
-[1st Dashboard](https://github.com/user-attachments/assets/759ce0c7-7fa6-48bc-94cc-b68ecb40677f) provides an in-depth analysis of employee turnover, tenure, and hiring sources. Offering valuable insights into employee turnover patterns, tenure distribution, and recruitment effectiveness, helping to identify trends and potential areas for improvement in employee retention strategies and hiring practices.
+[1st Dashboard](https://github.com/user-attachments/assets/7becff54-bed3-414f-a9bf-49c07cfe1543) provides an in-depth analysis of employee turnover, tenure, and hiring sources. Offering valuable insights into employee turnover patterns, tenure distribution, and recruitment effectiveness, helping to identify trends and potential areas for improvement in employee retention strategies and hiring practices.
 
 [2nd Dashboard](https://github.com/user-attachments/assets/ebc69f2a-93c2-4092-bcd2-a75a4a0e3bad) explores employee satisfaction in relation to various working factors, including manager support, salary, and tardiness. It also examines salary distribution based on performance, satisfaction, and department. Interactive slicers allow users to filter data by employee satisfaction levels (1 to 5) and salary ranges.
 # Dashboards:
-![image](https://github.com/user-attachments/assets/759ce0c7-7fa6-48bc-94cc-b68ecb40677f)
-
+![image](https://github.com/user-attachments/assets/7becff54-bed3-414f-a9bf-49c07cfe1543)
 
 ![image](https://github.com/user-attachments/assets/ebc69f2a-93c2-4092-bcd2-a75a4a0e3bad)
 
