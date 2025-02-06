@@ -27,6 +27,6 @@ This project is designed to equip HR managers, supervisors, and other company st
 # Findings and Recommendations
 ### Key Findings
 - Average Years of Service: 4.83 years overall, with those who voluntarily quit having an average tenure of 3.49 years.
-- Top 3 reasons behind voluntary employee terminations are: Another position, Unhappiness, More money while for terminations by company it's mainly attendance issues
-- Most of the employees are found through Indeed followed by LinkedIn
-
+- The main reasons behind voluntary employee terminations are seeking another position, unhappiness, and the pursuit of higher pay.
+- Most employees are found through Indeed, followed by LinkedIn.
+- Employees with satisfaction scores of 3, 4, and 5 show different tardiness rates: 0.41, 0.18, and 0.29, respectively. Scores of 1 and 2 were excluded due to their small sample size (2 and 9 individuals, respectively), ensuring more reliable insights. Higher satisfaction levels generally correlate with better punctuality.
