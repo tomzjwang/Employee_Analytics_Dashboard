@@ -10,7 +10,10 @@ In today's competitive job market, retaining top talent and fostering a satisfie
 # Objective
 This project is designed to equip HR managers, supervisors, and other company stakeholders using in-depth insights obtained from employee data. The project aims to support and inform decision makers on key areas such as employee satisfaction, recruitment, employee satisfaction, and termination.
 ### About the Dataset 
-The dataset used in this project contains employee information, providing valuable insights for HR analysis. The data has been sourced from [here](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set), ensuring accuracy and relevance for the analysis.
+- [Data Source](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+- Time period: March 1st, 2019
+- Key columns: EmpID, EmpSatisfaction, Department, Average Salary, Performance, EmploymentStatus
+- Calculated/Dax columns: TenureYear (nearest year), TenureDays, Tenure (tenure year but rounded to 2 decimal)
 ### Dashboard Summary
 [1st Dashboard](https://github.com/user-attachments/assets/9e5e310e-8e46-49d3-8d02-757870457175) provides an in-depth analysis of employee turnover, tenure, and hiring sources. Offering valuable insights into employee turnover patterns, tenure distribution, and recruitment effectiveness, helping to identify trends and potential areas for improvement in employee retention strategies and hiring practices.
 
@@ -21,5 +24,5 @@ The dataset used in this project contains employee information, providing valuab
 ![image](https://github.com/user-attachments/assets/ebc69f2a-93c2-4092-bcd2-a75a4a0e3bad)
 
 
-# Dashboard overview
-1234
+# Insights
+- 
