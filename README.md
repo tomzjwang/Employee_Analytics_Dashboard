@@ -27,7 +27,7 @@ This project is designed to equip HR managers, supervisors, and other company st
 
 # Findings and Recommendations
 ### Key Findings
-- Average Years of Service: 4.83 Years
-- Top 3 reasons behind employee terminations are: Another position, Unhappiness, More money
+- Average Years of Service: 4.83 years overall, with those who voluntarily quit having an average tenure of 3.49 years.
+- Top 3 reasons behind voluntary employee terminations are: Another position, Unhappiness, More money while for terminations by company it's mainly attendance issues
 - Most of the employees are found through Indeed followed by LinkedIn
-- 
+
