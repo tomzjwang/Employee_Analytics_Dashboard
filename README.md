@@ -3,7 +3,7 @@
 ### Links
 [Lets Connect on LinkedIn!](https://www.linkedin.com/in/tomzjwang/)
 
-[Download my Dashboard](https://github.com/tomzjwang/HR-Data-Analytics-using-Power-Bi/blob/main/Employee_Analysis_Dashboards.pbix)
+[Download my Dashboard!](https://github.com/tomzjwang/HR-Data-Analytics-using-Power-Bi/blob/main/Employee_Analysis_Dashboards.pbix)
 
 # Problem Overview
 In today's competitive job market, retaining top talent and fostering a satisfied workforce is more challenging than ever. Companies often struggle to identify the key factors that drive employee satisfaction, reasons behind high turnover rates and optimize their recruitment strategies. Without data driven insights, decision makers are left navigating these challenges in the dark, risking employee morale, productivity and overall organizational and employee success. This project aims to shed light on these critical areas, providing actionable insights to help build a thriving workplace.
