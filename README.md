@@ -33,7 +33,7 @@ This project is designed to equip HR managers, supervisors, and other company st
 - Employees with satisfaction scores of 3, 4, and 5 show different tardiness rates: 0.41, 0.18, and 0.29, respectively. Scores of 1 and 2 were excluded due to their small sample size (2 and 9 individuals, respectively), ensuring more reliable insights. Higher satisfaction levels generally correlate with better punctuality.
 - Employees who exceed expectations are paid on average $10,000 more than those who fully meet expectations. However, they also tend to have an additional year of tenure. This suggests that higher performance is recognized and rewarded, but longer tenure also contributes to the compensation disparity.
 ### Recommendations
-- Focus on retention strategies for employees for their first few years. Offer career development opportunities, mentorship programs, and clear advancement paths to keep them invested and motivated to work for the company.
+- Focus on retention strategies for employees for their first few years, examples may include offering career development opportunities, mentorship programs, and clear advancement paths to keep them invested and motivated to work for the company.
 - Conduct stay interviews to understand why employees might be considering leaving. Use the insights to create targeted intervention to address their dissatisfaction
 - Exploring other sources to diversify efforts, such as implementing employee referral programs to increase candidate quality. 
 - Regularly conduct engagement surveys to gauge employee satisfaction and identify areas for improvement. Use the results to tailor engagement initiatives and address specific concerns raised by employees.
