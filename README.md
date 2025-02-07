@@ -27,6 +27,13 @@ This project is designed to equip HR managers, supervisors, and other company st
 # Findings and Recommendations
 ### Key Findings
 - Average Years of Service: 4.83 years overall, with those who voluntarily quit having an average tenure of 3.49 years.
-- The main reasons behind voluntary employee terminations are seeking another position, unhappiness, and the pursuit of higher pay.
+- The main reasons behind voluntary employee terminations, which affect not only newer employees but also those with up to 7 years of service, are seeking another position, unhappiness, and the pursuit of higher pay.
 - Most employees are found through Indeed, followed by LinkedIn.
 - Employees with satisfaction scores of 3, 4, and 5 show different tardiness rates: 0.41, 0.18, and 0.29, respectively. Scores of 1 and 2 were excluded due to their small sample size (2 and 9 individuals, respectively), ensuring more reliable insights. Higher satisfaction levels generally correlate with better punctuality.
+- Employees with satisfaction scores of 3, 4, and 5 show different tardiness rates: 0.41, 0.18, and 0.29, respectively. Scores of 1 and 2 were excluded due to their small sample size (2 and 9 individuals, respectively), ensuring more reliable insights. Higher satisfaction levels generally correlate with better punctuality.
+- Employees who exceed expectations are paid on average $10,000 more than those who fully meet expectations. However, they also tend to have an additional year of tenure. This suggests that higher performance is recognized and rewarded, but longer tenure also contributes to the compensation disparity.
+### Recommendations
+- Focus on retention strategies for employees for their first few years. Offer career development opportunities, mentorship programs, and clear advancement paths to keep them invested and motivated to work for the company.
+- Conduct stay interviews to understand why employees might be considering leaving. Use the insights to create targeted intervention to address their dissatisfaction
+- Since most employees are found through Indeed and LinkedIn, continue leveraging these platforms but also explore other sources to diversify recruitment efforts. Consider employee referral programs to tap into high-quality candidates from your existing workforce since a lack of referrals from there.
+Regularly conduct engagement surveys to gauge employee satisfaction and identify areas for improvement. Use the results to tailor engagement initiatives and address specific concerns raised by employees.
