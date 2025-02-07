@@ -35,5 +35,5 @@ This project is designed to equip HR managers, supervisors, and other company st
 ### Recommendations
 - Focus on retention strategies for employees for their first few years. Offer career development opportunities, mentorship programs, and clear advancement paths to keep them invested and motivated to work for the company.
 - Conduct stay interviews to understand why employees might be considering leaving. Use the insights to create targeted intervention to address their dissatisfaction
-- Since most employees are found through Indeed and LinkedIn, continue leveraging these platforms but also explore other sources to diversify recruitment efforts. Consider employee referral programs to tap into high-quality candidates from your existing workforce since a lack of referrals from there.
-Regularly conduct engagement surveys to gauge employee satisfaction and identify areas for improvement. Use the results to tailor engagement initiatives and address specific concerns raised by employees.
+- Exploring other sources to diversify efforts, such as implementing employee referral programs to increase candidate quality. 
+- Regularly conduct engagement surveys to gauge employee satisfaction and identify areas for improvement. Use the results to tailor engagement initiatives and address specific concerns raised by employees.
