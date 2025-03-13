@@ -10,7 +10,7 @@ In today's competitive job market, retaining top talent and fostering a satisfie
 # Objective
 This project is designed to equip HR managers, supervisors, and other company stakeholders using in-depth insights obtained from employee data. The project aims to support and inform decision makers on key areas such as employee satisfaction, recruitment, employee satisfaction, and termination.
 ### About the Dataset 
-- [Data Source](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set)
+- This project uses the [**Human Resources Data Set**](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set), created by Dr. Carla Patalano and Dr. Rich Huebner.  
 - Time period: March 1st, 2019
 - Key columns: EmpID, EmpSatisfaction, Department, Average Salary, Performance, EmploymentStatus
 - Calculated/Dax columns: TenureYear (nearest year), TenureDays, Tenure (tenure year but rounded to 2 decimal)
